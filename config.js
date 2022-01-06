@@ -10,7 +10,7 @@ const CONFIG = {
     question: 'Do you ready for a date?',
     btnReply: 'Send this to your friend',
     reply: 'Yes, I am!',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
+    mess: 'I knew it 🥰. Love you much 😘😘',
     messDesc: 'Lets date right now ok?',
     btnAccept: 'Ok! <3',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
