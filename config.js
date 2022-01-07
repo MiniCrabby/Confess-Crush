@@ -1,6 +1,6 @@
 const CONFIG = {
-    titleWeb: "Lex 😘",
-    introTitle: 'Lex',
+    titleWeb: "Falxe 😘",
+    introTitle: 'Falxe',
     introDesc: `You know I love you from the first sight`,
     btnIntro: 'Oh!',
     title: 'Do you really love me? 🥰',
