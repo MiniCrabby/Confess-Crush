@@ -1,5 +1,5 @@
 const CONFIG = {
-    titleWeb: "Falxe 😘",
+    titleWeb: "Crush Falxe",
     introTitle: 'Falxe',
     introDesc: `You know I love you from the first sight`,
     btnIntro: 'Oh!',
